@@ -1,4 +1,4 @@
 # CTI 110 Repository
 Created for P1LAB1
-Bullard, Kelly
+Bullard
 September 16, 2022
